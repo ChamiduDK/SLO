@@ -124,6 +124,7 @@ $connection->close();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thambapanni Heritage - Create Account</title>
+    <link href="images/TH_logo_br.png" rel="icon">
     <link rel="stylesheet" href="css/reg-styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
@@ -149,7 +150,7 @@ $connection->close();
     <div class="container">
         <div class="form-container">
             <div class="image-container">
-                <img src="images/download.jpg" alt="Sri Lankan Flag" class="form-image">
+                <img src="images/TH_logo.jpg" alt="Sri Lankan Flag" class="form-image">
             </div>
 
             <div class="progress-bar">

@@ -1,9 +1,9 @@
 <?php
 
-$host = '127.0.0.1:3306';             
-$username = 'u866533411_chamidudhilsha';  
-$password = 'qazwsx123ED@#';          
-$dbname = 'u866533411_chamidudhilsha';    
+$host = '';             
+$username = '';  
+$password = '';          
+$dbname = '';    
 
 $connection = new mysqli($host, $username, $password, $dbname);
 
